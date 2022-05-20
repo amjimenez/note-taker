@@ -23,6 +23,5 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 ```
-http://localhost:3000/notes
 
 <img width="1317" alt="Screen Shot 2022-05-19 at 11 11 40 PM" src="https://user-images.githubusercontent.com/99158580/169442991-ea64097e-c29e-4c0c-bde7-aa1f8270f5c5.png">
