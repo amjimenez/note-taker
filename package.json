@@ -1,11 +1,14 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "express.js challenge",
+  "engines": {
+    "node": "12.11.1",
   "main": "app.js",
   "scripts": {
     "test": "mocha tests",
-    "start": "node app.js"
+    "start": "node index.js"
+  }
   },
   "author": "",
   "license": "ISC",
